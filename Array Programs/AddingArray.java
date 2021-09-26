@@ -1,9 +1,11 @@
 import java.util.Scanner;
-public class Assignment8_2 {
+public class AddingArray {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the array length:");
 		int len=scan.nextInt();
+		
+		// Creating new arrays arr1 and arr2 
 		int arr1[] = new int[len];
 		int arr2[] = new int[len];
 		
