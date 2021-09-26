@@ -1,13 +1,15 @@
 import java.util.Scanner;
 
-public class Assignment8_1 {
+public class CopyArrayContent {
 	public static void main(String []args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Enter the number of rows:");
 		int rows = scan.nextInt();
 		System.out.println("Enter the number of columns:");
 		int cols = scan.nextInt();
+		// Creating new array
 		int arr1[][] = new int[rows][cols];
+		// Taking input from the user and storing it in array
 		System.out.println("Enter the array elements");
 		for (int i = 0; i <= arr1.length-1; i++) {
 			for (int j = 0; j <= arr1[i].length-1; j++) {
