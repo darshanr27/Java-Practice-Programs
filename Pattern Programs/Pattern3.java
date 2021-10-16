@@ -10,7 +10,6 @@ Pattern 3
 
 */
 
-package com.programmingsession.patternPrograms;
 
 public class Pattern3 {
 
