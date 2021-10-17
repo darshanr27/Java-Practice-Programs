@@ -10,7 +10,7 @@ Pattern 4
 
 */
 
-public class Pattern4 {
+public class Pattern04 {
 
 	public static void main(String[] args) {
 		for (int i = 1; i <= 5; i++) {
