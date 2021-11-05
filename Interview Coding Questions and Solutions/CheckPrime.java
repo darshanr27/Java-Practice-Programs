@@ -2,6 +2,8 @@
 
 Q: Write a java program to check if the number is prime or not.
 Explaination: Prime number is a number which is divisible only by itself and 1.
+Sample Input: 5
+Sample Output: 5 is a prime number.
 
 */
 

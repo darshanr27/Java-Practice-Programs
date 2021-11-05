@@ -2,6 +2,8 @@
 
 Q: Write a program to check if the year is leap or not.
 Exaplaintation: Leap year is a year which is divisible by 4 but not by 100, if the year is divisible by 400 then it is a leap year.
+Sample Input: 2016
+Sample Output: Leap Year
 
 */
 
